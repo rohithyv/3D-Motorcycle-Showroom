@@ -1,0 +1,8 @@
+{
+  "generatedAt": "2026-10-02T03:39:22.995Z",
+  "modelBytes": 980440,
+  "totalJavaScriptBytes": 2151621,
+  "totalJavaScriptGzipBytes": 639437,
+  "javaScriptFiles": 26,
+  "scope": "All emitted client JavaScript across both routes, including lazy 3D chunks. Not an initial-route transfer or a Lighthouse score."
+}
